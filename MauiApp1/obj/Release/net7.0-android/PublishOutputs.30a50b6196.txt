@@ -1,3 +1,0 @@
-C:\Users\ulanzh\Desktop\MauiApp1\MauiApp1\bin\Release\net7.0-android\publish\com.companyname.mauiapp1-Signed.aab
-C:\Users\ulanzh\Desktop\MauiApp1\MauiApp1\bin\Release\net7.0-android\publish\com.companyname.mauiapp1.aab
-C:\Users\ulanzh\Desktop\MauiApp1\MauiApp1\bin\Release\net7.0-android\publish\com.companyname.mauiapp1-Signed.apk
